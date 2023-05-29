@@ -1,1 +1,2 @@
+/* Developer mode */
 <?php phpinfo(); ?>
